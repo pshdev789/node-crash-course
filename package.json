@@ -1,0 +1,24 @@
+{
+  "name": "crash-course",
+  "version": "1.0.0",
+  "description": "Crash course for Node",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pshdev789/node-crash-course.git"
+  },
+  "keywords": [
+    "Basic",
+    "Node",
+    "Application"
+  ],
+  "author": "PKG KODIKARA",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pshdev789/node-crash-course/issues"
+  },
+  "homepage": "https://github.com/pshdev789/node-crash-course#readme"
+}
