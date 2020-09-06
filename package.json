@@ -20,5 +20,8 @@
   "bugs": {
     "url": "https://github.com/pshdev789/node-crash-course/issues"
   },
-  "homepage": "https://github.com/pshdev789/node-crash-course#readme"
+  "homepage": "https://github.com/pshdev789/node-crash-course#readme",
+  "dependencies": {
+    "nodemon": "^2.0.4"
+  }
 }
